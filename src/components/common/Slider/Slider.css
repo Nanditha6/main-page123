@@ -1,0 +1,13 @@
+.carousel-caption {
+    bottom: 100px;
+}
+
+.carousel-item {
+    height: 400px;
+}
+
+.carousel-indicators li {
+    width: 10px;
+    height: 10px;
+    border-radius: 100%;
+}
